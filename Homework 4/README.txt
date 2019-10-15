@@ -1,0 +1,2 @@
+There is still a lot missing from the code and from the documentation. I will work on this more i the coming days. 
+I have the brute force versions running with concavity exploitet and a start for the Chebyshev as well. 
