@@ -1,2 +1,2 @@
-There is still a lot missing from the code and from the documentation. I will work on this more i the coming days. 
-I have the brute force versions running with concavity exploitet and a start for the Chebyshev as well. 
+There is still a lot missing from the code and from the documentation. I will work on this more in the coming days. 
+I have the brute force versions running with concavity and monotonicity of the policy function exploitet (also at the same time) and a start for the Chebyshev as well. 
