@@ -1,0 +1,1 @@
+Here is the code for the brute force method of value fucntion approximation. I am missing Howards implementation, the life-cycle adaptation, and parts of the endogeneneous grid tricks. Those are hopefully in the pipeline.
