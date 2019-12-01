@@ -1,3 +1,3 @@
 This is the first batch of answers for PS08. I am currently working on the last couple of exercises which hopefully get uploaded Monday.
 Exogrid is the attempted implementation of the exogenous grid method and uses a few side functions; towards_OLG_TT is the 
-implementation of the speed up tricks for the aggregation.
+implementation of the speed up tricks for the aggregation, genew is the extension to general equilibrium and includes a pension system, geneq_ceqv computes the same plus the newborn total lifetime value to be used for the consumption equivalent variation (this does not deliver sensible results). geneq_gini just adds the computation of the gini coefficient and Lorenz curve. The PDF and addenda are my handwritten answers.
